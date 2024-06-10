@@ -1,0 +1,17 @@
+2024-May-18-11:35:46,ETL Job Started
+2024-May-18-11:36:26,ETL Job Started
+2024-May-18-11:54:51,ETL Job Started
+2024-May-18-12:30:47,ETL Job Started
+2024-May-18-12:31:35,ETL Job Started
+2024-May-18-12:32:22,ETL Job Started
+2024-May-18-12:32:50,ETL Job Started
+2024-May-18-12:32:50,Extract phase Started
+2024-May-18-12:32:52,Extract phase Ended
+2024-May-18-14:10:19,ETL Job Started
+2024-May-18-14:10:19,Extract phase Started
+2024-May-18-14:10:20,Extract phase Ended
+2024-May-18-14:10:20,Transform phase Started
+2024-May-18-14:10:20,Transform phase Ended
+2024-May-18-14:10:20,Load phase Started
+2024-May-18-14:10:20,Load phase Ended
+2024-May-18-14:10:20,Access SQL Program
